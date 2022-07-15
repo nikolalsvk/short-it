@@ -1,0 +1,7 @@
+name = "short-it"
+main = "src/index.ts"
+compatibility_date = "2022-07-15"
+
+kv_namespaces = [
+  { binding = "SHORT_URLS", id = "029d374ebd984e19b0bb98e37ab1a95e", preview_id = "99a72876e5f84cf58de722b1c2080604" }
+]
